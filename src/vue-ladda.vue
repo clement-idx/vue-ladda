@@ -56,8 +56,3 @@
     }
   };
 </script>
-
-<style lang="scss">
-  // TODO: make themed a option?
-  @import '~ladda/css/ladda-themed.scss';
-</style>
